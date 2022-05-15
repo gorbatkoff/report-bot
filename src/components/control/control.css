@@ -1,0 +1,31 @@
+.report,
+.task {
+    padding: 0.5em 1em;
+    margin: 1vh 0;
+}
+
+.adding-task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.adding-task input {
+    width: 80%;
+}
+
+.adding-bonus{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+}
+
+.adding-bonus input{
+    width: 60%;
+}
+
+.adding-bonus-variants{
+    padding: 1em 0;
+}
